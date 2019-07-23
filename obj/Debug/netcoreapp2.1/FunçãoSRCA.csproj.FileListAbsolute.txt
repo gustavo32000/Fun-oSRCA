@@ -1,0 +1,11 @@
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRCA\bin\Debug\netcoreapp2.1\FunçãoSRCA.deps.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRCA\bin\Debug\netcoreapp2.1\FunçãoSRCA.runtimeconfig.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRCA\bin\Debug\netcoreapp2.1\FunçãoSRCA.runtimeconfig.dev.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRCA\bin\Debug\netcoreapp2.1\FunçãoSRCA.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRCA\bin\Debug\netcoreapp2.1\FunçãoSRCA.pdb
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRCA\obj\Debug\netcoreapp2.1\FunçãoSRCA.csprojAssemblyReference.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRCA\obj\Debug\netcoreapp2.1\FunçãoSRCA.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRCA\obj\Debug\netcoreapp2.1\FunçãoSRCA.AssemblyInfoInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRCA\obj\Debug\netcoreapp2.1\FunçãoSRCA.AssemblyInfo.cs
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRCA\obj\Debug\netcoreapp2.1\FunçãoSRCA.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\FunçãoSRCA\obj\Debug\netcoreapp2.1\FunçãoSRCA.pdb
